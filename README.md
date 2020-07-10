@@ -1,5 +1,5 @@
 # [MIT 18.06 Linear Algebra](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PLE7DDD91010BC51F8) 
-<p align="right">An attempt to replicate the lectuers series in notes</p>
+<p align="right">An attempt to replicate the lecture  series in notes</p>
 
 
 ## Sections
@@ -21,4 +21,5 @@
 
 
 ## Common Conventions
-* A is Matrix of Shape m x n
+* $$\mathbf{dim} [ \mathbf{A}] = \mathbf{m} \times \mathbf{n} $$
+* $$\mathbf{rank} [ \mathbf{A}] = \mathbf{r} $$
