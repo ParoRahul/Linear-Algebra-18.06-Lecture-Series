@@ -20,6 +20,4 @@
 
 
 
-## Common Conventions
-* $$\mathbf{dim} [ \mathbf{A}] = \mathbf{m} \times \mathbf{n} $$
-* $$\mathbf{rank} [ \mathbf{A}] = \mathbf{r} $$
+
