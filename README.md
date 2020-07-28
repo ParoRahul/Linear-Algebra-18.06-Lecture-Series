@@ -1,8 +1,9 @@
-# [MIT 18.06 Linear Algebra](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PLE7DDD91010BC51F8) 
+# [MIT 18.06 Linear Algebra](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PLE7DDD91010BC51F8)
+
 <p align="right">An attempt to replicate the lecture  series in notes</p>
 
-
 ## Sections
+
 1. The Geometry of Linear Equations
 2. Elimination with Matrices
 3. Multiplication and Inverse Matrices
@@ -17,7 +18,3 @@
 12. Graphs, Networks, Incidence Matrices
 13. Quiz 1 Review
 14. [Orthogonal Vectors and Subspaces](lectuers/LECTUER_14.md)
-
-
-
-

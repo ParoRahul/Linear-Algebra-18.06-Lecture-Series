@@ -1,0 +1,9 @@
+{
+    "default": true,
+    "MD003": { "style": "setext_with_atx"},
+    "MD007": { "indent": 4 },
+    "MD035": { "style": "---"},
+    "MD013": { "line_length": 250},
+    "MD041": { "front_matter_title": "^\\s*title\\s*[:=]"}
+    "no-hard-tabs": false
+}
